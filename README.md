@@ -28,3 +28,5 @@ Individual contributors and creators are credited in the documentation of their 
 **Affiliation:** Department of Computer Engineering, University of Buea, Cameroon.
 
 **Contact:** [**tiani@tianipekins.com**](mailto:tiani@tianipekins.com)
+
+Explore our open-source datasets and benchmarks on the Hugging Face [**Cameroon AI Research Lab**](https://huggingface.co/cameroon-ai-lab)
