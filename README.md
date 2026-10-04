@@ -29,4 +29,4 @@ Individual contributors and creators are credited in the documentation of their 
 
 **Contact:** [**tiani@tianipekins.com**](mailto:tiani@tianipekins.com)
 
-Explore our open-source datasets and benchmarks on the Hugging Face [**Cameroon AI Research Lab**](https://huggingface.co/cameroon-ai-lab)
+Explore our open-source datasets and benchmarks on the Hugging Face [**Cameroon AI Research Lab**](https://huggingface.co/LAB237)
